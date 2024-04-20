@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(60, 179, 222);
+    border: 2px solid pink;
+    border-radius: 15px;
+    height: 70px;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
